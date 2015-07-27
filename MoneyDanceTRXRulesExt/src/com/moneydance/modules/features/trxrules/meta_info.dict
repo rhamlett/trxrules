@@ -1,9 +1,9 @@
 {
-  "vendor" = "Your Name Here"
+  "vendor" = "Richard A. Hamlett"
   "module_build" = "1"
   "minbuild" = "1000"
-  "vendor.url" = "http://your.url.here/"
-  "module_name" = "My Extension"
-  "module_desc" = "<html><body><title>My Extension</title><p>An HTML description of your extension goes here.</p></body></html>"
-  "desc" = "A text description of your extension goes here."
+  "vendor.url" = "https://github.com/rhamlett/trxrules/wiki/MoneyDance-Extension-(Planned)"
+  "module_name" = "Transaction Rules"
+  "module_desc" = "<html><body><title>Transaction Rules</title><p>MoneyDance 2015 extension Transaction Rules will allow MoneyDance 2015 users to apply re-naming and/or re-categorizing rules to transactions in the MoneyDance account register. Apply rules to a specified date range for modified transactions, or allow rules to be applied to all new transactions. Rules can modify any of the editable transaction fields.</p></body></html>"
+  "desc" = "MoneyDance 2015 extension Transaction Rules will allow MoneyDance 2015 users to apply re-naming and/or re-categorizing rules to transactions in the MoneyDance account register. Apply rules to a specified date range for modified transactions, or allow rules to be applied to all new transactions. Rules can modify any of the editable transaction fields."
 }
